@@ -79,6 +79,8 @@ int main()
                 break;
 
         }
-    } 
+    } while (pilihan != 5);
+    system("pause");
+    system("CLS");
 }
 
